@@ -8,7 +8,7 @@
 - 💞️ I’m looking to collaborate on ...
   1. Python projects
   2. Javascript projects
-- My Biggest project: [CanvasShooter](https://github.com/ErikRospo/CanvasShooter)
+- My Biggest project: [WombotPython](https://github.com/ErikRospo/wombotPython)
 - 📫 How to reach me ...
   - rerik.work@gmail.com
 <!---
