@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ErikRospo
 - My Website: https://erikrospo.github.io/
 - 👀 I’m interested in:  
-  1. Javascript Development
+  1. Web Development
   2. AI
   3. Python
   4. Game development
