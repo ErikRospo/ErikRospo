@@ -1,17 +1,19 @@
 - 👋 Hi, I’m @ErikRospo
-- My Website: https://erikrospo.github.io/
-- 👀 I’m interested in:  
-  1. Web Development
-  2. AI
-  3. Python
-  4. Game development
-- 💞️ I’m looking to collaborate on ...
-  1. Python projects
-  2. Javascript projects
-- My Biggest project: [WombotPython](https://github.com/ErikRospo/wombotPython)
-- 📫 How to reach me ...
-  - rerik.work@gmail.com
+```js
+{
+  developer:true,
+  languages:["TS", "JS", "Python"],
+  editor:"VSCode"
+}
+```
+My biggest project: [WombotPython](https://github.com/ErikRospo/wombotPython)
+
+
+ 
+ ![Erik's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErikRospo&show_icons=true&theme=dark)
+
 <!---
 ErikRospo/ErikRospo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![visitors](https://visitor-badge.glitch.me/badge?page_id=erikRospo.readme-visitorcount&left_color=green&right_color=red)
